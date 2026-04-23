@@ -50,7 +50,7 @@ Atualmente estou fortalecendo meu perfil como desenvolvedora full stack, constru
 ## 📫 Contato
 
 - E-mail: larissasil.macedo@gmail.com
-- LinkedIn: [LINK_LINKEDIN](https://www.linkedin.com/in/larissa-macedo-367117275/)
+- LinkedIn: [Larissa Macedo](https://www.linkedin.com/in/larissa-macedo-367117275/)
 
 ---
 
