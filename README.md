@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou a Lari</h1>
+<h1 align="center">👋 Olá! Eu sou a Larissa Macedo</h1>
 
 <p align="center">
 Profissional de TI com foco em desenvolvimento de sistemas, banco de dados e soluções web.
@@ -49,8 +49,8 @@ Atualmente estou fortalecendo meu perfil como desenvolvedora full stack, constru
 
 ## 📫 Contato
 
-- E-mail: seuemail@exemplo.com
-- LinkedIn: LINK_LINKEDIN
+- E-mail: larissasil.macedo@gmail.com
+- LinkedIn: [LINK_LINKEDIN](https://www.linkedin.com/in/larissa-macedo-367117275/)
 
 ---
 
